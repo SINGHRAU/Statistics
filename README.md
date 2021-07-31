@@ -14,7 +14,9 @@ q = probability of failure (subtract your probability of success from 1).
 
 
 **Example 14:** 70% of people who purchase auto insurance are men. If 8 auto insurance owners are randomly selected, find the probability that exactly 5 are men.
+
 Solution: 
+
 Step 1: n is 8.
 Step 2: X is 5.
 Step 3: first part of the formula is
