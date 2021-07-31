@@ -18,12 +18,15 @@ q = probability of failure (subtract your probability of success from 1).
 Solution: 
 
 Step 1: n is 8.
+
 Step 2: X is 5.
+
 Step 3: first part of the formula is
 𝑛! (𝑛−𝑋)!𝑋!
 Substitute the variables:
 8! (8−5)!5!
 = 57
+
 Step 4: Find p and q.
 p is the probability of success and q is the probability of failure. We are given p = 70%, or .7. So, the probability of failure is 1 – .7 = .3 (30%).
 
@@ -35,5 +38,6 @@ Step 6: Work the third part of the formula. =(𝑞)𝑛−𝑋
 = (0.3)8−5
    37
  = .0027
+
 Step 7: Multiply your answer from step 3, 5, and 6 together. 56 × .16807 × .0027= 0.25412
 The probability of exactly 5 men who will buy auto insurance is 0.25412.
